@@ -74,7 +74,6 @@ A highly collaborative task management tool leveraging real-time data sync, secu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebbot&show_icons=true&theme=tokyonight&count_private=true" alt="Haseeb's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebbot&theme=tokyonight" alt="Haseeb's Streak Stats" />
 </p>
 
