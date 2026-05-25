@@ -1,7 +1,7 @@
 # Hey there! I'm Abdul Haseeb Mobeen 👋 
 ### Next.js Developer | Building Modern, High-Performance & Responsive Web Applications 🚀
 
-[![Upwork Profile](https://img.shields.io/badge/Upwork-Verified%20Talent-001f3f?style=for-the-badge&logo=upwork&logoColor=14a800)](https://www.upwork.com) 
+
 [![Next.js Certified](https://img.shields.io/badge/Next.js-Certified-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
