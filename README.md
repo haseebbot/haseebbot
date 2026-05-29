@@ -83,5 +83,4 @@ A highly collaborative task management tool leveraging real-time data sync, secu
 
 Whether you have a dynamic landing page project, need a pixel-perfect Figma-to-React conversion, or want to build a fully optimized Next.js full-stack platform, let's connect and build something awesome!
 
-* 📥 **Hire me on Upwork:** [Click here to visit my profile](https://www.upwork.com)
 * 💼 **Connect on LinkedIn:** [Abdul Haseeb Mobeen](https://linkedin.com)
